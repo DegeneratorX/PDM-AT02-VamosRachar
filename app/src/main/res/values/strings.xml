@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VamosRachar</string>
+    <string name="app_title">Vamos Rachar</string>
+    <string name="texto_resultado" translatable="false">%1$s : %2$.2f</string>
+</resources>

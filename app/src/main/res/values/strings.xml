@@ -2,4 +2,13 @@
     <string name="app_name">VamosRachar</string>
     <string name="app_title">Vamos Rachar</string>
     <string name="texto_resultado" translatable="false">%1$s : %2$.2f</string>
+    <string name="para_cada">para cada um.</string>
+    <string name="texto_para_voz_l_o_resultado">Texto para Voz. Lê o resultado.</string>
+    <string name="compartilhe_o_resultado">Compartilhe o resultado</string>
+    <string name="valor_da_conta">Valor da conta</string>
+    <string name="n_mero_de_pessoas_na_mesa">Número de pessoas na mesa</string>
+    <string name="icone_cosmetico_de_dinheiro">Icone cosmetico de dinheiro</string>
+    <string name="icone_cosmetico_que_representa_a_quantidade_de_pessoas">Icone cosmetico que representa a quantidade de pessoas</string>
+    <string name="banner_vamos_rachar">Banner vamos rachar</string>
+    <string name="resultado_final_do_rachamento">Resultado final do rachamento</string>
 </resources>
